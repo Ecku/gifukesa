@@ -1,6 +1,8 @@
 package main;
 
-public class Enrollment {
+import java.io.Serializable;
+
+public class Enrollment implements Serializable {
     private int grade;
     private Student student;
     private Course course;

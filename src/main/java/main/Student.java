@@ -1,6 +1,8 @@
 package main;
 
-public class Student implements PrintInfo {
+import java.io.Serializable;
+
+public class Student implements Serializable, PrintInfo {
     private String name;
     private String id;
 

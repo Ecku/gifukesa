@@ -3,3 +3,31 @@
 [2024-07-16 11.37.21] Ohjelma käynnistyy
 [2024-07-16 11.38.28] Ohjelma käynnistyy
 [2024-07-16 11.39.46] Ohjelma käynnistyy
+[2024-07-16 11.46.24] Ohjelma käynnistyy
+[2024-07-16 11.49.26] Ohjelma käynnistyy
+[2024-07-16 11.50.16] Kurssit tallennettu tiedostoon
+[2024-07-16 11.50.16] Ilmoittautumiset tallennettu tiedostoon
+[2024-07-16 11.50.16] Opiskelijat tallennettu tiedostoon
+[2024-07-16 11.50.25] Ohjelma sulkeutuu
+[2024-07-16 11.50.28] Ohjelma käynnistyy
+[2024-07-16 11.51.03] Kurssit tallennettu tiedostoon
+[2024-07-16 11.51.03] Ilmoittautumiset tallennettu tiedostoon
+[2024-07-16 11.51.03] Opiskelijat tallennettu tiedostoon
+[2024-07-16 11.51.10] Ohjelma sulkeutuu
+[2024-07-16 11.51.59] Ohjelma käynnistyy
+[2024-07-16 11.52.14] Kurssit tallennettu tiedostoon
+[2024-07-16 11.52.14] Ilmoittautumiset tallennettu tiedostoon
+[2024-07-16 11.52.14] Opiskelijat tallennettu tiedostoon
+[2024-07-16 11.53.05] Kurssit ladattu tiedostosta
+[2024-07-16 11.53.05] Ilmoittautumiset ladattu tiedostosta
+[2024-07-16 11.53.05] Opiskelijat ladattu tiedostosta
+[2024-07-16 11.57.14] Ohjelma sulkeutuu
+[2024-07-16 11.57.26] Ohjelma käynnistyy
+[2024-07-16 11.57.36] Kurssit ladattu tiedostosta
+[2024-07-16 11.57.36] Ilmoittautumiset ladattu tiedostosta
+[2024-07-16 11.57.36] Opiskelijat ladattu tiedostosta
+[2024-07-16 14.39.43] Ohjelma käynnistyy
+[2024-07-16 14.39.56] Kurssit ladattu tiedostosta
+[2024-07-16 14.39.56] Ilmoittautumiset ladattu tiedostosta
+[2024-07-16 14.39.56] Opiskelijat ladattu tiedostosta
+[2024-07-16 15.00.21] Ohjelma sulkeutuu
