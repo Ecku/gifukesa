@@ -1,0 +1,5 @@
+[2024-07-16 11.25.50] Ohjelma käynnistyy
+[2024-07-16 11.25.59] Ohjelma sulkeutuu
+[2024-07-16 11.37.21] Ohjelma käynnistyy
+[2024-07-16 11.38.28] Ohjelma käynnistyy
+[2024-07-16 11.39.46] Ohjelma käynnistyy
